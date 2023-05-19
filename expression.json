@@ -1,0 +1,298 @@
+{
+    "sad": {
+        "eyebrow": [
+            "troubled",
+            0.38,
+            0.41
+        ],
+        "eye": [
+            "raised_lower_eyelid",
+            0.42,
+            0.45
+        ],
+        "mouth": [
+            "aaa",
+            0.5,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "surprised": {
+        "eyebrow": [
+            "raised",
+            1.5,
+            1.5
+        ],
+        "eye": [
+            "surprised",
+            1.23,
+            1.23
+        ],
+        "mouth": [
+            "ooo",
+            1.45,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.4,
+            0.4
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "contempt": {
+        "eyebrow": [
+            "angry",
+            1.5,
+            1.4
+        ],
+        "eye": [
+            "umimpressed",
+            0.8,
+            0.8
+        ],
+        "mouth": [
+            "delta",
+            1.05,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "happy_wink": {
+        "eyebrow": [
+            "happy",
+            0.8,
+            0.8
+        ],
+        "eye": [
+            "happy_wink",
+            1.0,
+            1.0
+        ],
+        "mouth": [
+            "ooo",
+            0.48,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "worried": {
+        "eyebrow": [
+            "troubled",
+            1.0,
+            1.0
+        ],
+        "eye": [
+            "raised_lower_eyelid",
+            0.3,
+            0.3
+        ],
+        "mouth": [
+            "ooo",
+            3.0,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "angry": {
+        "eyebrow": [
+            "angry",
+            1.9,
+            1.8
+        ],
+        "eye": [
+            "surprised",
+            3.55,
+            3.55
+        ],
+        "mouth": [
+            "delta",
+            8.0,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "angry2": {
+        "eyebrow": [
+            "angry",
+            1.9,
+            1.8
+        ],
+        "eye": [
+            "surprised",
+            3.55,
+            3.55
+        ],
+        "mouth": [
+            "lowered_corner",
+            1.5,
+            0.0
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    },
+    "happy": {
+        "eyebrow": [
+            "happy",
+            0.8,
+            0.8
+        ],
+        "eye": [
+            "surprised",
+            0.1,
+            0.1
+        ],
+        "mouth": [
+            "raised_corner",
+            1.5,
+            1.5
+        ],
+        "iris_shrinkage": [
+            0.0,
+            0.0
+        ],
+        "iris_rotation": [
+            0.0,
+            0.0
+        ],
+        "head_rotation": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "body_rotation": [
+            0.0,
+            0.0
+        ],
+        "breathing": [
+            0.0
+        ]
+    }
+}
